@@ -72,6 +72,7 @@ let sum =(a,b,c)=>{
 }
 
 console.log(sum(2,3,4))
+console.log(sum(2,3,4))
 
 
 
